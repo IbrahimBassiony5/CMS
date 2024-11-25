@@ -30,15 +30,15 @@ export default function Footer() {
             <div className="space-y-4">
               <div className="flex items-center gap-2">
                 <Mail className="w-5 h-5 text-indigo-400" />
-                <span className="text-gray-400">contact@cmsacademy.com</span>
+                <span className="text-gray-400">ibrahimmaster496@gmail.com</span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-5 h-5 text-indigo-400" />
-                <span className="text-gray-400">+1 (555) 123-4567</span>
+                <span className="text-gray-400">01127753586</span>
               </div>
               <div className="flex items-center gap-2">
                 <MapPin className="w-5 h-5 text-indigo-400" />
-                <span className="text-gray-400">San Francisco, CA</span>
+                <span className="text-gray-400">cairo</span>
               </div>
             </div>
           </div>
