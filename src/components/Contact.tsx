@@ -24,7 +24,7 @@ export default function Contact() {
             <div className="space-y-4 mb-8">
               <div className="flex items-center gap-4">
                 <Mail className="w-5 h-5 text-indigo-600" />
-                <span className="text-gray-600">contact@example.com</span>
+                <span className="text-gray-600">ibrahimmaster496@gmail.com</span>
               </div>
               <div className="flex items-center gap-4">
                 <Phone className="w-5 h-5 text-indigo-600" />
@@ -38,9 +38,7 @@ export default function Contact() {
             <div className="bg-white p-6 rounded-lg shadow-lg">
               <h4 className="font-semibold mb-4">Office Hours</h4>
               <div className="space-y-2 text-gray-600">
-                <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
-                <p>Saturday: 10:00 AM - 4:00 PM</p>
-                <p>Sunday: Closed</p>
+                <p>24/7</p>
               </div>
             </div>
           </div>
